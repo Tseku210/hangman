@@ -36,3 +36,4 @@ def hangman(word):
         print("You Lose! It was {}.".format(word))
 
 hangman("cat")
+print("Hey this is awesome, I can now push and pull from Github")
